@@ -1,0 +1,2 @@
+one = animeon.cc
+two = v2.animeon.co
