@@ -1,2 +1,2 @@
 one = animeon.cc
-two = v2.animeon.co
+two = v1.animeon.co
